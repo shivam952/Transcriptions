@@ -1,0 +1,93 @@
+Caller: "I'm interested in selling a Colt Python .357 Magnum. I've kept it in good condition and I'm hoping to get around $500."
+
+Employee: "Thank you for considering Idaho Pawn and Gold. Based on the details you've given, I can offer you $300 for your Colt Python .357 Magnum."
+
+Caller: "Hmm, I was hoping for something closer to $500. Could we meet in the middle at $400?"
+
+Employee: "I understand that, but we need to consider various factors such as market value, condition, and our ability to resell the item. I could go up to $350. Would that work for you?"
+
+Caller: "Alright, I can accept $350. Thank you for working with me on this."
+
+Caller: "Hello, I have a Remington Model 700 Bolt-Action Rifle that I'd like to sell. It's in excellent condition. I was thinking I could get $750 for it."
+
+Employee: "Thank you for considering Idaho Pawn and Gold. Given the details you've provided, I can offer you $500 for your Remington Model 700."
+
+Caller: "That's a bit lower than I was hoping for. Can we make it $600?"
+
+Employee: "I understand your concern. Considering the market value, the condition, and our potential to resell the item, I could go up to $550. Would that be acceptable?"
+
+Caller: "I think I can work with $550. Thank you for your time."
+
+Caller: "Hi, I have a 1 carat diamond ring set in 14k white gold that I'd like to sell. I was hoping to get around $2000 for it."
+
+Employee: "Thank you for considering Idaho Pawn and Gold. To give you a fair offer, could you provide more details about the diamond? Specifically, can you tell me about its cut, color, clarity, and whether you have a grading report?"
+
+Caller: "It's a round cut diamond, with a color grade of H and clarity grade of VS2. I do have a grading report from the Gemological Institute of America."
+
+Employee: "Thank you for the information. Based on the details you've provided, I can offer you $1400 for your diamond ring."
+
+Caller: "I was hoping for something closer to $1800. Can we meet in the middle at $1600?"
+
+Employee: "Given the quality of the diamond and the current market conditions, I can go up to $1500. Would that be acceptable to you?"
+
+Caller: "Yes, I think I can accept $1500. Thanks for working with me on this."
+
+Caller: "Hello, I have a 1-ounce gold bar I'd like to sell. I've been seeing that gold is going for around $1800 an ounce right now."
+
+Employee: "Thank you for considering Idaho Pawn and Gold. Could you tell me more about the gold bar? Specifically, could you confirm its purity and whether it comes with any sort of certification?"
+
+Caller: "It's a 24k gold bar, .9999 purity, and it comes with an assay certificate."
+
+Employee: "Great, based on the details you've provided, and considering current market rates and our ability to resell, I can offer you $1500 for your gold bar."
+
+Caller: "I was hoping for something closer to $1700. Could we meet at $1600?"
+
+Employee: "Taking into account the market conditions and the need to verify the authenticity of the bar, I can go up to $1550. Would that work for you?"
+
+Caller: "Yes, I can accept $1550. Thank you for working with me."
+
+
+
+Caller: "Hello, I have a collection of American Silver Eagle coins that I'd like to sell. There are 20 coins in total. I've noticed the current market price for silver is around $25 an ounce."
+
+Employee: "Thank you for considering Idaho Pawn and Gold. Could you tell me more about the condition of the coins and whether they come in a protective case or have any sort of certification?"
+
+Caller: "The coins are in mint condition and come in a protective tube. They're all from the same year, too."
+
+Employee: "Based on the details you've provided, considering current market rates and our ability to resell, I can offer you $400 for your collection of Silver Eagles."
+
+Caller: "I was hoping for something closer to $450. Can we meet in the middle at $425?"
+
+Employee: "Considering the current market conditions and the condition of your coins, I can go up to $415. Would that work for you?"
+
+Caller: "Yes, I can accept $415. Thanks for working with me."
+
+Caller: "Hello, I have a 2015 Honda Accord I'd like to sell. It's in good condition with 50,000 miles on it. I'm hoping to get around $12,000."
+
+Employee: "Thank you for considering Idaho Pawn and Gold. Could you provide more details about the car? Specifically, its maintenance history, any accidents, and the condition of the interior and exterior?"
+
+Caller: "I have kept up with regular maintenance and it's never been in an accident. The interior is clean and the exterior has minor wear and tear."
+
+Employee: "Based on the details you've provided and the current market value, I can offer you $10,000 for your Honda Accord."
+
+Caller: "Could we meet in the middle at $11,000?"
+
+Employee: "Considering the details of the car and current market conditions, I can go up to $10,500. Would that work for you?"
+
+Caller: "Yes, I can accept $10,500. Thanks for working with me."
+
+
+
+Caller: "Hi, I'm looking to sell my Trek Domane SL 5 Disc road bike. It's a 2020 model and is in great condition. I'm hoping to get around $1500."
+
+Employee: "Thank you for considering Idaho Pawn and Gold. Could you provide more details about the bike? Specifically, its usage history and any wear or damage?"
+
+Caller: "I've used it sparingly for local rides, and there's no noticeable damage."
+
+Employee: "Based on the details you've provided and the current market value, I can offer you $1000 for your bike."
+
+Caller: "Could we meet in the middle at $1250?"
+
+Employee: "Considering the details of the bike and current market conditions, I can go up to $1100. Would that work for you?"
+
+Caller: "Yes, I can accept $1100. Thanks for working with me."
